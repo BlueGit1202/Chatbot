@@ -261,7 +261,11 @@ const toggleVoice = () => {
 
 const stopVoiceInput = () => {
     if (recognition.value) {
-        recognition.value.stop()
+        try {
+            recognition.value.stop()
+        } catch (e) {
+            console.log('Voice recognition already stopped')
+        }
     }
     isListening.value = false
 }
@@ -274,7 +278,14 @@ const startVoiceInput = () => {
 }
 
 const toggleVoiceInput = () => {
-    isListening.value ? stopVoiceInput() : startVoiceInput()
+    if (isListening.value) {
+        stopVoiceInput()
+    } else {
+        // Ensure any previous voice processing is complete
+        if (!isLoading.value) {
+            startVoiceInput()
+        }
+    }
 }
 
 const clearAllMessages = () => {
@@ -400,6 +411,11 @@ const sendMessage = async () => {
 
     try {
         isLoading.value = true
+        // Stop voice input but don't interfere with response
+        if (isListening.value) {
+            stopVoiceInput()
+        }
+
         messages.push({
             sender: 'user',
             text: userInput.value,
@@ -421,7 +437,7 @@ const sendMessage = async () => {
         const botResponse = response.data.choices[0].message.content
         const botMessage = reactive({
             sender: 'bot',
-            text: '', // Start with empty text
+            text: '',
             fullText: botResponse,
             isTyping: true,
         })
@@ -429,7 +445,10 @@ const sendMessage = async () => {
         scrollToBottom()
 
         if (voiceEnabled.value) {
-            speakWithLiveCaption(botResponse, botMessage)
+            // Delay speech slightly to ensure voice input is fully stopped
+            setTimeout(() => {
+                speakWithLiveCaption(botResponse, botMessage)
+            }, 300)
         } else {
             typeMessage(botMessage, 10)
         }
