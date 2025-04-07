@@ -424,7 +424,7 @@ const sendMessage = async () => {
         scrollToBottom()
 
         const response = await axios.post('/chat/completions', {
-            model: 'gpt-3.5-turbo',
+            model: 'deepseek/deepseek-chat-v3-0324',
             messages: [
                 {
                     role: 'user',
