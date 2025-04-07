@@ -116,7 +116,7 @@ Hello we have just moved into a new home and the carpets are more worn than we i
 )
 
 if the customer only asks like above Example, you have to only answer like below sample
-bot's sample response
+bot's sample response, and customer's other question, u can handle actively.
 (
 Hi Tilly
 Thank you for your enquiry
