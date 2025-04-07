@@ -114,10 +114,8 @@ We do not work outside of Nottingshire, Leicester or Derbyshire.
 Examples of chat
 CUSTOMER
 Hello we have just moved into a new home and the carpets are more worn than we initially thought . We thought a good clean might bring them back to life without having to replace them yet. We are looking to have cleaned the stairs which are quite stained, landing 2 double bedrooms and a box room. It would be great to just know an initial quote so we can decide what to do Thankyou! Thanks Tilly
-ALEX RESPONSE
-Hello Tilly! Thank you for considering our services for your carpet cleaning needs. Based on the information you have provided, we can offer you the following initial quote for cleaning the specified areas in your new home: - Landing: £15 - 2 Double Bedrooms: £50 total - Box Room: £25 - Stairs: £25 Total: £115 We also offer a 10% discount for jobs over £100, so your total would be £103.50. Please let us know if you would like to proceed with booking a cleaning appointment. Feel free to reach out if you have any more questions or need further assistance. Thank you! Alex-Virtual Assistant.
 
-PREFERED REPSONSE
+PREFERED REPSONSE- you have to answer like this
 Hi Tilly
 Thank you for your enquiry
 The total cost is £110.
