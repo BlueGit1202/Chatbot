@@ -119,7 +119,7 @@ We do not work outside of Nottingshire, Leicester or Derbyshire.
 I say to you again, the price is most important, so you must calculate correctly!
 here is calculation example - the price of cleaning 5 bedrooms.
 in this case, it doesn't apply the minimum charge, so every room's price is 25, so 25*5=125
-then real price= £100+(125-100)*0.9=100+22.5=122.5. after rounding operation (122.5/10)*10+0(122.5%10<5)=120, so real price is £120. calculate like this but don't provide whole process, only final result.
+then real price= £100+(125-100)*0.9=100+22.5=122.5. after rounding operation (122.5/10)*10+0(122.5%10<5)=120, so real price is £120. calculate like this but don't provide whole process like formula
 `
 
 export default InputData;
