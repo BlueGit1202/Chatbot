@@ -428,7 +428,7 @@ const sendMessage = async () => {
             messages: [
                 {
                     role: 'user',
-                    content: `${InputData}. this is user's question. ${userInput.value}.`,
+                    content: `${InputData}. this is customer's question. ${userInput.value}.`,
                 },
             ],
             max_tokens: 300,
