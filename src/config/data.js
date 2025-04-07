@@ -44,8 +44,9 @@ Small to medium lounge £35
 Through lounge £70
 Dinning room £35
 Office in home £25
-There is a 10% discount over £100 to £200 round up to nearest £5
-There is a 25% discount over £200 rounded up to nearest £5
+There is a 10% discount over £100 to £200 round up to nearest £5(don’t send this part – use only to calculate and send this price- real price= 100+(total-100)*0.9)
+There is a 25% discount over £200 rounded up to nearest £5(don’t send this part – use only to calculate.you have to accurate when calculating the discount.
+If total price 200 then discount = total price - 200 x 25% + £10)
 To quote a commercial job we need pictures and sizes or a visit.
 Three seater sofa £40
 Two seater sofa £35
@@ -62,7 +63,7 @@ Headrest for a bed £20 to £30
 Single mattress £30
 Double mattress £40
 King size mattress £50
- 
+ (most important thing is to calculate accurately total price)
 11. Do you offer any discounts or package deals?
 We automatically apply discounts to jobs over £100
  
@@ -106,7 +107,25 @@ Not usually.  We have on occasions for small areas that are part of the carpet c
 Do you remove stains
 We can never guarantee all stains and marks come out, though we do our best and are successful most the time.  Stain removal depends on the carpet type and what the stain is.  Natural fibres such as wool and cotton are much more difficult to treat stains as the stain absorbs into the fibre.  Man made fibres are much easier to remove stains.  We are usually successful with tea, coffee, soft drink  some food stains, certain make ups, oil, grease and dirt.  Blood stains can take up to two visits depending on how much soaked into the carpet.  (We charge a small fee for the second visit if required).
 Stains that are very difficult to remove include certain makeups, Lillie stains, stains previously attempted with vanish or similar, radiator chemicals, varnish from wooden furniture, hair dye, permanent inks, gloss paint, etc
+Our email address is cvccontracts@gmail.com
+We cover Nottingham, Louborough, Leicester and DE72, DE24 and DE74. We do not cover NG1, LE1, LE14, LE9, LE8, LE16 South of Wigston, Leicestershire, North of Arnold, Nottinghamshire, NG13 or NG14
+We do not work outside of Nottingshire, Leicester or Derbyshire.
 
+Examples of chat
+CUSTOMER
+Hello we have just moved into a new home and the carpets are more worn than we initially thought . We thought a good clean might bring them back to life without having to replace them yet. We are looking to have cleaned the stairs which are quite stained, landing 2 double bedrooms and a box room. It would be great to just know an initial quote so we can decide what to do Thankyou! Thanks Tilly
+ALEX RESPONSE
+Hello Tilly! Thank you for considering our services for your carpet cleaning needs. Based on the information you have provided, we can offer you the following initial quote for cleaning the specified areas in your new home: - Landing: £15 - 2 Double Bedrooms: £50 total - Box Room: £25 - Stairs: £25 Total: £115 We also offer a 10% discount for jobs over £100, so your total would be £103.50. Please let us know if you would like to proceed with booking a cleaning appointment. Feel free to reach out if you have any more questions or need further assistance. Thank you! Alex-Virtual Assistant.
+
+PREFERED REPSONSE
+Hi Tilly
+Thank you for your enquiry
+The total cost is £110.
+Although we can get the dirt out and the carpets will look much better, from what you describe they will not be like new carpets.
+Please let us know your postcode if you want us to check availability
+Regards
+
+Richard
  If you find similar question in these qa similar with customer question,then have to answer all information in this qa,don't reduce or add. if there is no, then you have to deal it actively.
 `
 
