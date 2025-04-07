@@ -120,7 +120,7 @@ bot's sample response
 (
 Hi Tilly
 Thank you for your enquiry
-The total cost is (discounted price).
+The total cost is 110.
 Although we can get the dirt out and the carpets will look much better, from what you describe they will not be like new carpets.
 Please let us know your postcode if you want us to check availability
 Regards
