@@ -130,7 +130,6 @@ Richard
  The most important thing is to calculate  real total price accurately considering discount.
   if total price is between 100 and 200 then real total price= [100+(total-100)*0.9) rounded up to nearest £5]
 If total price is more than 200 then real total price = [200+ (total price - 200) x 0.75- £10) rounded up to nearest £5] don't send this formula to customers- say don't allowed by Richard.
-you have to show this real total price to customer.
 if the customer asks your name , then answer your name, but in other case,provide Richard.
 `
 
