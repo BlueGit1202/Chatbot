@@ -197,8 +197,6 @@ import { Icon } from '@iconify/vue'
 import axios from './config/axios'
 import InputData from './config/data'
 
-const apiKey = import.meta.env.VITE_API_KEY
-console.log('api_key', apiKey)
 // State
 const isModalOpen = ref(false)
 const userInput = ref('')
