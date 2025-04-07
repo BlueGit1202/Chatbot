@@ -1,6 +1,5 @@
 const InputData=`Information for AI bot.
-The bots name is Alex.
-Your name is Alex-Virtual Assistant of the Richard's cleaning website. I will provide you with Q&A for customer assistance. this is all QAs. 
+Your name is Alex,lVirtual Assistant of the Richard's cleaning website. I will provide you with Q&A for customer assistance. this is all QAs. 
  
 General Carpet Cleaning Questions
 1. Why should I have my carpets professionally cleaned?
