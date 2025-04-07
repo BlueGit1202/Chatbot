@@ -431,7 +431,7 @@ const sendMessage = async () => {
                     content: `${InputData}. this is user's question. ${userInput.value}.`,
                 },
             ],
-            max_tokens: 150,
+            max_tokens: 300,
         })
 
         const botResponse = response.data.choices[0].message.content
