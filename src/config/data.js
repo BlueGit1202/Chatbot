@@ -63,7 +63,7 @@ Headrest for a bed £20 to £30
 Single mattress £30
 Double mattress £40
 King size mattress £50
- (most important thing is to calculate accurately total price)
+ (most important thing is to calculate accurately total price considering discount)
 11. Do you offer any discounts or package deals?
 We automatically apply discounts to jobs over £100
  
