@@ -197,6 +197,8 @@ import { Icon } from '@iconify/vue'
 import axios from './config/axios'
 import InputData from './config/data'
 
+const apiKey = import.meta.env.VITE_API_KEY
+console.log('api_key', apiKey)
 // State
 const isModalOpen = ref(false)
 const userInput = ref('')
@@ -424,7 +426,7 @@ const sendMessage = async () => {
         scrollToBottom()
 
         const response = await axios.post('/chat/completions', {
-            model: 'deepseek/deepseek-chat-v3-0324',
+            model: 'deepseek/deepseek-chat-v3-0324:free',
             messages: [
                 {
                     role: 'user',

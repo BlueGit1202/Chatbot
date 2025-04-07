@@ -1,9 +1,10 @@
 import axios from "axios";
+const apiKey = import.meta.env.VITE_API_KEY
 const openRouterApi = axios.create({
   baseURL: 'https://openrouter.ai/api/v1',
   headers: {
     'Content-Type': 'application/json',
-    'Authorization': `Bearer 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`,
+    'Authorization': `Bearer ${apiKey}`,
     'HTTP-Referer': 'www.cvccleaning.co.uk',
     'X-Title':'Alex'
   }
