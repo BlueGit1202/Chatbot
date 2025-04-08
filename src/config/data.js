@@ -43,8 +43,8 @@ Small to medium lounge £35
 Through lounge £70
 Dinning room £35
 Office in home £25
-There is a 10% discount over £100 to £200 round up to nearest £5
-There is a 25% discount over £200 rounded up to nearest £5
+There is a 10% discount over £100 to £200
+There is a 25% discount over £200
 To quote a commercial job we need pictures and sizes or a visit.
 Three seater sofa £40
 Two seater sofa £35
