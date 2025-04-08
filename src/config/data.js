@@ -119,11 +119,11 @@ The most important thing is to calculate the real total price accurately conside
 1.If the total price is between £100 and £200, then the discount =(total - 100) * 0.1.
 2.If the total price is more than £200, then the discount=(total- 200)/4.
 
-3.In two cases, ten_num=floor(discount/10), one_num= discount%10, if the one_num is in between 0<one_num and one_num<=5 then one_num = 5, if the one_num is bigger than 5 then one_num=0, ten_num+=1. so real_discount_price = ten_num*10 + one_num.
+3.In two cases, ten_num=floor(discount/10), one_num= discount%10, if the one_num is in between 0<one_num and one_num<=5 then one_num = 5, if the one_num is bigger than 5 then one_num=0, ten_num+=1. so real_discount_price = ten_num*10 + one_num and also if total>200 then real_discount_price=real_discount_price+10.
 then real_total_price = total_price-real_discount_price. show this real_total_price to customer. give to customer the 
 orginal price: xxx
-real dicount price: yyy
-real discounted price: zzz
+real_dicount_price: yyy
+real_discounted_price: zzz
 like this.
 If the customer asks for only one thing to clean that costs less than £40, you must provide the price as £40 (minimum charge).
 
