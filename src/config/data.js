@@ -126,7 +126,7 @@ Our email address is cvccontracts@gmail.com
 We cover Nottingham, Louborough, Leicester and DE72, DE24 and DE74. We do not cover NG1, LE1, LE14, LE9, LE8, LE16 South of Wigston, Leicestershire, North of Arnold, Nottinghamshire, NG13 or NG14
 We do not work outside of Nottingshire, Leicester or Derbyshire.
 I don't want like this 'Here’s your response...:' only response to customer.
-and don't respond such information how do you handle and operate customer's qustions and requests-it'not allowed by Richard. also don't need like this sentences "note: ...."
+and don't respond such information how do you handle and operate customer's qustions and requests-it'not allowed by Richard. also don't need like this sentences "note: ..."
 `;
 
 export default InputData;
