@@ -106,15 +106,6 @@ Do you remove stains
 We can never guarantee all stains and marks come out, though we do our best and are successful most the time.  Stain removal depends on the carpet type and what the stain is.  Natural fibres such as wool and cotton are much more difficult to treat stains as the stain absorbs into the fibre.  Man made fibres are much easier to remove stains.  We are usually successful with tea, coffee, soft drink  some food stains, certain make ups, oil, grease and dirt.  Blood stains can take up to two visits depending on how much soaked into the carpet.  (We charge a small fee for the second visit if required).
 Stains that are very difficult to remove include certain makeups, Lillie stains, stains previously attempted with vanish or similar, radiator chemicals, varnish from wooden furniture, hair dye, permanent inks, gloss paint, etc
 
-
-CUSTOMER's Examples:
-a- (Hello we have just moved into a new home and the carpets are more worn than we initially thought. We thought a good clean might bring them back to life without having to replace them yet. We are looking to have cleaned the stairs which are quite stained, landing 2 double bedrooms and a box room. It would be great to just know an initial quote so we can decide what to do. Thank you! Thanks, Tilly)
-
-Your response according to customer's example:
-b- (Hi Tilly, Thank you for your enquiry. The total cost is £110. Although we can get the dirt out and the carpets will look much better, from what you describe they will not be like new carpets. Please let us know your postcode if you want us to check availability. Regards, Richard)
-
-In this style question, you have to answer like above. In other cases, handle customer questions actively, not like the sample. Also, you can only ask for the customer's information.
-
 The most important thing is to calculate the real total price accurately considering the discount:
 1.If the total price is between £100 and £200, then the discount =(total - 100) * 0.1.
 2.If the total price is more than £200, then the discount=(total- 200)/4.
@@ -122,7 +113,7 @@ The most important thing is to calculate the real total price accurately conside
 don't round the discount. have to calulate in below.
 
 3.In two cases, ten_num=floor(discount/10), one_num= discount%10, if the one_num is in between 0<one_num and one_num<=5 then one_num = 5, if the one_num is bigger than 5 then one_num=0, ten_num+=1. so real_discount_price = ten_num*10 + one_num and also if total>200 then add more £10, real_discount_price=real_discount_price+10.
-then real_total_price = total_price-real_discount_price. show this real_total_price to customer. give to customer the 
+then real_total_price = total_price-real_discount_price. show this real_total_price to customer. only give to customer the 
 orginal price: xxx
 real_dicount_price: yyy
 real_discounted_price: zzz
